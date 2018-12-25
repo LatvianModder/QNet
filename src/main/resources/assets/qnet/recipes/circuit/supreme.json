@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "qnet:circuit",
+	"result": {"item": "supreme_circuit", "count": 8},
+	"pattern": [
+		"CCC",
+		"CSC",
+		"CCC"
+	],
+	"key": {
+		"C": {"item": "advanced_circuit"},
+		"S": {"type": "forge:ore_dict", "ore": "netherStar"}
+	}
+}

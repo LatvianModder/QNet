@@ -1,0 +1,27 @@
+itemGroup.qnet=QNet
+
+item.qnet.basic_circuit.name=Basic QNet Circuit
+tile.qnet.basic_controller.name=Basic QNet Controller
+tile.qnet.basic_controller.linked=Linked with Controller!
+tile.qnet.basic_screen.name=Basic QNet Screen
+item.qnet.basic_storage.name=Basic QNet Storage
+item.qnet.basic_input.name=Basic QNet Input
+item.qnet.basic_output.name=Basic QNet Output
+
+item.qnet.advanced_circuit.name=Advanced QNet Circuit
+tile.qnet.advanced_controller.name=Advanced QNet Controller
+tile.qnet.advanced_screen.name=Advanced QNet Screen
+item.qnet.advanced_storage.name=Advanced QNet Storage
+item.qnet.advanced_input.name=Advanced QNet Input
+item.qnet.advanced_output.name=Advanced QNet Output
+
+item.qnet.supreme_circuit.name=Supreme QNet Circuit
+tile.qnet.supreme_controller.name=Supreme QNet Controller
+tile.qnet.supreme_screen.name=Supreme QNet Screen
+item.qnet.supreme_storage.name=Supreme QNet Storage
+item.qnet.supreme_input.name=Supreme QNet Input
+item.qnet.supreme_output.name=Supreme QNet Output
+
+qnet.unlimited=Unlimited
+qnet.max_connections=Max Connections: %s
+qnet.connection_range=Connection Range: %s

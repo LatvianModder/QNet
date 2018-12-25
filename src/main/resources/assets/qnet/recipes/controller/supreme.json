@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "qnet:controller",
+	"result": {"item": "supreme_controller"},
+	"pattern": [
+		"CCC",
+		"COC",
+		"CCC"
+	],
+	"key": {
+		"C": {"item": "supreme_circuit"},
+		"O": {"item": "advanced_controller"}
+	}
+}

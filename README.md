@@ -1,1 +1,1 @@
-# QNet
+# QNet [![](http://cf.way2muchnoise.eu/qnet.svg)](https://minecraft.curseforge.com/projects/qnet) [![](http://cf.way2muchnoise.eu/versions/qnet.svg)](https://minecraft.curseforge.com/projects/qnet)

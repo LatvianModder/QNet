@@ -1,0 +1,11 @@
+{
+	"variants": {
+		"inventory": [{"model": "qnet:screen/supreme_item", "x": 90}],
+		"facing=down": {"model": "qnet:screen/supreme"},
+		"facing=up": {"model": "qnet:screen/supreme", "x": 180},
+		"facing=west": {"model": "qnet:screen/supreme", "x": 90, "y": 90},
+		"facing=east": {"model": "qnet:screen/supreme", "x": 90, "y": 270},
+		"facing=north": {"model": "qnet:screen/supreme", "x": 90, "y": 180},
+		"facing=south": {"model": "qnet:screen/supreme", "x": 90}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "qnet:screen",
+	"result": {"item": "basic_screen"},
+	"pattern": [
+		"QCP",
+		"OGP",
+		"QCP"
+	],
+	"key": {
+		"C": {"item": "basic_circuit"},
+		"O": {"item": "minecraft:concrete", "data": 15},
+		"Q": {"type": "forge:ore_dict", "ore": "gemQuartz"},
+		"G": {"type": "forge:ore_dict", "ore": "dustGlowstone"},
+		"P": {"type": "forge:ore_dict", "ore": "paneGlass"}
+	}
+}

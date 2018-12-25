@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "qnet:screen",
+	"result": {"item": "advanced_screen"},
+	"ingredients": [
+		{"item": "basic_screen"},
+		{"item": "advanced_circuit"},
+		{"type": "forge:ore_dict", "ore": "workbench"},
+		{"type": "forge:ore_dict", "ore": "chestWood"}
+	]
+}

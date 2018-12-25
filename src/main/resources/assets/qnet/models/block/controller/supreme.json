@@ -1,0 +1,6 @@
+{
+	"parent": "qnet:block/controller/controller",
+	"textures": {
+		"all": "qnet:blocks/controller/supreme"
+	}
+}

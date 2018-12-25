@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "qnet:circuit",
+	"result": {"item": "basic_circuit"},
+	"pattern": [
+		"RQR",
+		"GEG",
+		"RQR"
+	],
+	"key": {
+		"Q": {"type": "forge:ore_dict", "ore": "gemQuartz"},
+		"G": {"type": "forge:ore_dict", "ore": "dustGlowstone"},
+		"R": {"type": "forge:ore_dict", "ore": "dustRedstone"},
+		"E": {"type": "forge:ore_dict", "ore": "enderpearl"}
+	}
+}

@@ -1,0 +1,17 @@
+[
+	{
+		"modid": "qnet",
+		"name": "QNet",
+		"description": "",
+		"version": "${version}",
+		"mcversion": "${mcversion}",
+		"url": "http://minecraft.curseforge.com/projects/qnet",
+		"updateUrl": "",
+		"authorList": ["LatvianModder"],
+		"credits": "",
+		"logoFile": "assets/qnet/textures/logo.png",
+		"screenshots": [],
+		"parent": "",
+		"dependencies": []
+	}
+]

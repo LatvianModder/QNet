@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "qnet:screen",
+	"result": {"item": "supreme_screen"},
+	"ingredients": [
+		{"item": "advanced_screen"},
+		{"item": "supreme_circuit"},
+		{"type": "forge:ore_dict", "ore": "workbench"},
+		{"item": "minecraft:bookshelf"}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "qnet:block/screen/screen",
+	"textures": {
+		"texture": "qnet:blocks/screen/basic"
+	}
+}

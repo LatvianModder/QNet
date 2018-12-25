@@ -1,0 +1,11 @@
+{
+	"variants": {
+		"inventory": [{"model": "qnet:screen/advanced_item", "x": 90}],
+		"facing=down": {"model": "qnet:screen/advanced"},
+		"facing=up": {"model": "qnet:screen/advanced", "x": 180},
+		"facing=west": {"model": "qnet:screen/advanced", "x": 90, "y": 90},
+		"facing=east": {"model": "qnet:screen/advanced", "x": 90, "y": 270},
+		"facing=north": {"model": "qnet:screen/advanced", "x": 90, "y": 180},
+		"facing=south": {"model": "qnet:screen/advanced", "x": 90}
+	}
+}
